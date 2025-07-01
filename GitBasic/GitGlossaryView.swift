@@ -29,7 +29,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Repository",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Repository is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -38,7 +38,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Stage",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Stage is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -47,7 +47,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Push",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Push is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -56,7 +56,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Pull",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Pull is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -65,7 +65,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Pull request",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Pull Request is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -74,7 +74,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Merge",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Merge is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -83,7 +83,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Conflict",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Conflict is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -92,7 +92,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Remote",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Remote is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -101,7 +101,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Clone",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Clone is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -110,7 +110,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Branch",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Branch is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
@@ -119,7 +119,7 @@ struct GitGlossaryView: View {
         """),
         
         GitTerm(title: "Stash",
-                explanation: "A commit is a snapshot of your project at a specific time.",
+                explanation: "A Stash is a snapshot of your project at a specific time.",
                 example: "git commit -m \"Added login button\"",
                 howTo: """
         1. Click Integrate > Commit
